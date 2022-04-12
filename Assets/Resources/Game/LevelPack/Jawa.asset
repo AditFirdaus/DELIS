@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 036a1d39e2c471d4ab908cd856cd9073, type: 3}
+  m_Name: Jawa
+  m_EditorClassIdentifier: 
+  packName: Jawa
+  cost: 12000
+  levelDatas:
+  - {fileID: 11400000, guid: 2559cecfcb82d1541b660f8d39bf733b, type: 2}
+  - {fileID: 11400000, guid: 0f5165d65a1e8fd4b94e3a1082f56df7, type: 2}
+  - {fileID: 11400000, guid: f4ce8c05212fff94abf03ffcc67e9719, type: 2}
+  - {fileID: 11400000, guid: 35b144cad1d2a1a48be1658f66d267d3, type: 2}
+  - {fileID: 11400000, guid: a1f8cc9fe1dbc604587bc10be3d56603, type: 2}
+  - {fileID: 11400000, guid: 1a0b148141f79944396f3a7a6042ef1d, type: 2}
